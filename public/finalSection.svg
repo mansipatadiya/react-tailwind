@@ -1,0 +1,26 @@
+<svg width="316" height="568" viewBox="0 0 316 568" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M308.02 0H7.9798C3.57268 0 0 8.70898 0 19.4521V548.548C0 559.291 3.57268 568 7.9798 568H308.02C312.427 568 316 559.291 316 548.548V19.4521C316 8.70898 312.427 0 308.02 0Z" fill="#161D3A"/>
+<text fill="#F5F5F7" xml:space="preserve" style="white-space: pre" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="18" y="31.0909">AI</tspan></text>
+<text fill="#F5F5F7" xml:space="preserve" style="white-space: pre" font-size="10" letter-spacing="0em"><tspan x="18" y="55.6364">Our AI-powered platform is designed to identify potential </tspan><tspan x="18" y="71.6364">construction issues, such as poor installation or structural </tspan><tspan x="18" y="87.6364">concerns, by analysing photos you upload. It&#x2019;s constantly </tspan><tspan x="18" y="103.636">learning from new data to give you more accurate and </tspan><tspan x="18" y="119.636">reliable feedback every time.</tspan></text>
+<text fill="#F5F5F7" xml:space="preserve" style="white-space: pre" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="18" y="245.091">Insight</tspan></text>
+<text fill="#F5F5F7" xml:space="preserve" style="white-space: pre" font-size="10" letter-spacing="0em"><tspan x="18" y="269.636">We don&#x2019;t just detect problems; we provide you with clear, </tspan><tspan x="18" y="285.636">actionable insights so you can understand whether </tspan><tspan x="18" y="301.636">something needs immediate attention or if it can wait. Our </tspan><tspan x="18" y="317.636">goal is to help you make confident decisions about your </tspan><tspan x="18" y="333.636">home.</tspan></text>
+<text fill="#F5F5F7" xml:space="preserve" style="white-space: pre" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="18" y="450.091">Advanced Analytics</tspan></text>
+<text fill="#F5F5F7" xml:space="preserve" style="white-space: pre" font-size="10" letter-spacing="0em"><tspan x="18" y="474.636">Using sophisticated analysis, we process your queries </tspan><tspan x="18" y="490.636">effciently and give you detailed results. This technology </tspan><tspan x="18" y="506.636">ensures you get comprehensive advice without the long </tspan><tspan x="18" y="522.636">waits, making it easy to keep your projects on track.</tspan></text>
+<path d="M227.678 147.54H288.975C301.639 147.54 312 138.956 312 128.464V23.8861C312 13.3943 301.639 4.81006 288.975 4.81006H27.0251C14.3613 4.81006 4 13.3943 4 23.8861V128.468C4 138.959 14.3613 147.544 27.0251 147.544H95.612L223.344 212.635H288.975C301.639 212.635 312 221.219 312 231.711V336.293C312 346.784 301.639 355.369 288.975 355.369H227.678M91.2787 212.631H27.0251C14.3613 212.631 4 221.215 4 231.707V336.289C4 346.781 14.3613 355.365 27.0251 355.365H95.612L223.344 420.456H288.975C301.639 420.456 312 429.04 312 439.532V544.114C312 554.606 301.639 563.19 288.975 563.19H27.0251C14.3613 563.19 4 554.606 4 544.114V439.532C4 429.04 14.3613 420.456 27.0251 420.456H91.2787" stroke="url(#paint0_linear_1038_194)" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M232.606 142H222.606V152H232.606V142Z" fill="url(#paint1_linear_1038_194)"/>
+<path d="M96.6057 416H86.6057V426H96.6057V416Z" fill="url(#paint2_linear_1038_194)"/>
+<defs>
+<linearGradient id="paint0_linear_1038_194" x1="50.3562" y1="172.06" x2="50.3562" y2="603.76" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#4D4397"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1038_194" x1="556.428" y1="146.999" x2="-15.0476" y2="146.999" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#4D4397"/>
+</linearGradient>
+<linearGradient id="paint2_linear_1038_194" x1="420.428" y1="420.999" x2="-151.048" y2="420.999" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#4D4397"/>
+</linearGradient>
+</defs>
+</svg>
